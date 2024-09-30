@@ -12,6 +12,8 @@ I'm a Software Engineer at Bina Nusantara IT Division
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128.svg?style=for-the-badge&logo=Apache-JMeter&logoColor=white)
+
 
 # 📊 GitHub Stats:
 
